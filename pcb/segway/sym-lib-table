@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "stm32 blackpill")(type "KiCad")(uri "C:/Users/micha/Desktop/SEGWAY/segway.pretty/stm32 blackpill.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM20948")(type "KiCad")(uri "C:/Users/micha/Desktop/SEGWAY/segway.pretty/ICM20948.kicad_sym")(options "")(descr ""))
+  (lib (name "MPU6050")(type "KiCad")(uri "C:/Users/micha/Desktop/SEGWAY/segway.pretty/MPU6050.kicad_sym")(options "")(descr ""))
+  (lib (name "segway_pinout")(type "KiCad")(uri "C:/Users/micha/Desktop/SEGWAY/segway.pretty/segway_pinout.kicad_sym")(options "")(descr ""))
+)
